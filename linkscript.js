@@ -1,4 +1,4 @@
-var url = 'https://raw.githubusercontent.com/crisfervil/dynamicsextensions/master/loader.js';
+var url = 'https://rawgit.com/crisfervil/dynamicsextensions/master/loader.js';
 var script = document.createElement("script"); // Make a script DOM node
 script.src = url; // Set it's src to the provided URL
 
